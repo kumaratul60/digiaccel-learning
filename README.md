@@ -13,13 +13,20 @@ use command:
 in each module (client and server)
 
 <sub> npm i </sub>
-<sup> npm start </sup>
+<sub> npm start </sub>
 
 ✅ Features
+
 Homepage - The landing Page
+
 Login & SignUp Page
+
 Jwt
+
 Argon2 -> password hash
+
 Admin Page
+
 User Page
+
 Private route
