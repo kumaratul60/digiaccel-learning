@@ -12,14 +12,22 @@ Tools: React JS,express JS, Mondo DB, Node JS, Bootstrap, Chakra-UI
 use command:
 in each module (client and server)
 
-<sub> npm i </sub>
-<sup> npm start </sup>
+<code> npm i </code>
+
+<kbd> npm start </kbd>
 
 ✅ Features
+
 Homepage - The landing Page
+
 Login & SignUp Page
+
 Jwt
+
 Argon2 -> password hash
+
 Admin Page
+
 User Page
+
 Private route
