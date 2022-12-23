@@ -14,7 +14,7 @@ in each module (client and server)
 
 <code> npm i </code>
 
-<sub> npm start </sub>
+<kbd> npm start </kbd>
 
 ✅ Features
 
