@@ -12,7 +12,8 @@ Tools: React JS,express JS, Mondo DB, Node JS, Bootstrap, Chakra-UI
 use command:
 in each module (client and server)
 
-<sub> npm i </sub>
+<code> npm i </code>
+
 <sub> npm start </sub>
 
 ✅ Features
